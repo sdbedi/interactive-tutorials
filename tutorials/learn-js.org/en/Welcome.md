@@ -32,8 +32,8 @@ Table of Contents
 
 ### ES6/ES2015
 - [[Let and Const]]
-- [[Classes]]
 - [[Arrow Functions]]
+- [[Classes]]
 
 ### Contributing Tutorials
 
