@@ -30,6 +30,11 @@ Table of Contents
 - [[Function Context]]
 - [[Inheritance]]
 
+### ES6/ES2015
+- [[Let and Const]]
+- [[Classes]]
+- [[Arrow Functions]]
+
 ### Contributing Tutorials
 
 Read more here: [[Contributing Tutorials]]
